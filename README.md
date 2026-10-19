@@ -68,7 +68,3 @@ docs/                  Built website served by GitHub Pages
 
 - Add the Advanced therapy package's features (`src/screens/Therapy.tsx`).
 - Add a verified crisis helpline name and number (`src/screens/Crisis.tsx`).
-
-## Credits
-
-Illustrations and brand belong to Our Padi. This prototype is static: it does not store or send any data.
